@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>SCEL_Radar.ac</path>
+
+<!-- El siguiente codigo hace GIRAR EL RADAR -->
+<animation>
+	<type>rotate</type>
+	<object-name>Radar</object-name>
+	<property>/sim/time/elapsed-sec</property>
+		<factor>50.0</factor>
+		<center>
+			<x-m>0</x-m>
+			<y-m>0</y-m>
+			<z-m>0</z-m>
+		</center>
+		<axis>
+			<x>0</x>
+			<y>0</y>
+			<z>1</z>
+		</axis>
+</animation>
+
+<!-- El siguiente codigo ilumina el FOCO DEL RADAR durante la noche, y lo apaga durante el dia -->
+<animation>
+	<type>material</type> 
+	<object-name>LuzBlanca</object-name>
+	<condition>		
+		<greater-than>		
+			<property>/sim/time/sun-angle-rad</property>
+			<value>1.57</value>
+		</greater-than>
+	</condition>
+	<emission>	
+		<red>1</red>	
+		<green>1</green>	
+		<blue>1</blue>
+	</emission>
+</animation>
+<animation>
+	<type>material</type> 
+	<object-name>LuzBlanca</object-name>
+	<condition>		
+		<less-than-equals>		
+			<property>/sim/time/sun-angle-rad</property>
+			<value>1.57</value>
+		</less-than-equals>
+	</condition>
+	<emission>	
+		<red>0</red>	
+		<green>0</green>	
+		<blue>0</blue>
+	</emission>
+</animation>
+
+</PropertyList>

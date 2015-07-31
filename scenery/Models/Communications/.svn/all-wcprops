@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications
+END
+cell-monopole2-75m.ac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/cell-monopole2-75m.ac
+END
+base_clape_03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/base_clape_03.xml
+END
+base_clape_04.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/base_clape_04.xml
+END
+Fernsehturm-Stade.ac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/Fernsehturm-Stade.ac
+END
+lattice-1x6-red.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/lattice-1x6-red.rgb
+END
+radome-4m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radome-4m.xml
+END
+mil-antena-61m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/mil-antena-61m.xml
+END
+mil-antena-45m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/mil-antena-45m.xml
+END
+radome-8m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radome-8m.xml
+END
+lattice-1x6-white.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/lattice-1x6-white.rgb
+END
+cell-monopole1-75m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/cell-monopole1-75m.xml
+END
+cell-monopole2-75m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/cell-monopole2-75m.xml
+END
+cell-monopole3-75m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/cell-monopole3-75m.xml
+END
+vordme_1.ac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/vordme_1.ac
+END
+radio-medium.ac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/radio-medium.ac
+END
+rad-struct-1.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/rad-struct-1.rgb
+END
+base_clape_01.ac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/base_clape_01.ac
+END
+rad-struct-2.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/rad-struct-2.rgb
+END
+fi-lahti-radiomast.ac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/fi-lahti-radiomast.ac
+END
+tower-microwave-1.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/tower-microwave-1.rgb
+END
+base_clape_03.ac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/base_clape_03.ac
+END
+radome-24m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radome-24m.xml
+END
+radome-16m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radome-16m.xml
+END
+mil-antena-61m.ac
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/mil-antena-61m.ac
+END
+Fernsehturm-Stade.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/Fernsehturm-Stade.rgb
+END
+Fernsehturm-Stade-redlight.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/Fernsehturm-Stade-redlight.rgb
+END
+mil-antena-45m.ac
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/mil-antena-45m.ac
+END
+lattice-1x6.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/lattice-1x6.rgb
+END
+cell-antenna.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/cell-antenna.rgb
+END
+cell-monopole1-75m.ac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/cell-monopole1-75m.ac
+END
+radome.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radome.rgb
+END
+cell-monopole3-75m.ac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/cell-monopole3-75m.ac
+END
+rad-light.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/rad-light.rgb
+END
+Telekom_Turm_Kiel_Muenster_Cuxhaven_Bremen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/Telekom_Turm_Kiel_Muenster_Cuxhaven_Bremen.xml
+END
+tower-unstayed-200m-grey-unlit.ac
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/tower-unstayed-200m-grey-unlit.ac
+END
+vordme_2.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/vordme_2.rgb
+END
+tower-microwave-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/tower-microwave-1.xml
+END
+radio-tall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radio-tall.xml
+END
+radome.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radome.ac
+END
+tower-unstayed-200m-striped-unlit.ac
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/tower-unstayed-200m-striped-unlit.ac
+END
+cell-deck.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/cell-deck.rgb
+END
+Fernsehturm-Stade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/Fernsehturm-Stade.xml
+END
+vordme_2.ac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/vordme_2.ac
+END
+base_clape_02.ac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/base_clape_02.ac
+END
+tower-unstayed-200m-grey-unlit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/tower-unstayed-200m-grey-unlit.xml
+END
+base_clape_04.ac
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/base_clape_04.ac
+END
+tower-unstayed-200m-striped-unlit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/tower-unstayed-200m-striped-unlit.xml
+END
+Telekom_Turm_Kiel_Muenster_Cuxhaven_Bremen.ac
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/Telekom_Turm_Kiel_Muenster_Cuxhaven_Bremen.ac
+END
+radio-tall.ac
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/radio-tall.ac
+END
+tower-microwave-1.ac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8460/trunk/data/Scenery/Models/Communications/tower-microwave-1.ac
+END
+vordme_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/vordme_1.xml
+END
+radio-medium.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/radio-medium.xml
+END
+vordme_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/vordme_2.xml
+END
+fi-lahti-radiomast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/fi-lahti-radiomast.xml
+END
+base_clape_01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/base_clape_01.xml
+END
+base_clape_02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7298/trunk/data/Scenery/Models/Communications/base_clape_02.xml
+END
